@@ -37,7 +37,6 @@ npm run preview
 👤 **Hamadou Diallo**
 
 - GitHub: [@hamadou](https://github.com/morpheus86)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
 - LinkedIn: [Hamadou Diallo](https://www.linkedin.com/in/hamadoutidiane/)
 
 ## Feedback and Contributions
