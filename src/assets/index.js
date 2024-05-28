@@ -41,7 +41,7 @@ import rubyrails from "./tech/rubyrails.png";
 import flatbush from "./company/flatbush.png";
 import noble from "./company/noble.png";
 import amount from "./company/amount.png";
-import upwork from "./company/upwork.png";
+import CCD from "./company/CCD.png";
 
 import noblelogo from "./projects/noble.png";
 
@@ -96,5 +96,5 @@ export {
   noblelogo,
   clonebnb,
   amount,
-  upwork,
+  CCD,
 };

@@ -25,7 +25,7 @@ import {
   flatbush,
   noblelogo,
   amount,
-  upwork,
+  CCD,
 } from "../assets";
 
 export const navLinks = [
@@ -123,32 +123,32 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Front-End Developer",
-    company_name: "Flatbush YMCA",
+    title: "Full-Stack Developer",
+    company_name: "Covariant",
     icon: flatbush,
     iconBg: "#333333",
-    date: "Aug 2014 - Apr 2016",
+    date: "Sep 2017 - Feb 2019",
   },
   {
     title: "Full Stack Engineer",
     company_name: "NobleIndustries",
     icon: noble,
     iconBg: "#333333",
-    date: "June 2020 - Nov 2021",
+    date: "June 2019 - Nov 2021",
   },
   {
-    title: "Full Stack Engineer",
+    title: "Sr.Software Engineer",
     company_name: "Amount",
     icon: amount,
     iconBg: "#333333",
-    date: "June 2022 - Oct 2023",
+    date: "June 2022 - Apr 2023",
   },
   {
-    title: "Full Stack Engineer (Freelancer)",
-    company_name: "Upwork",
-    icon: upwork,
+    title: "Lead Developer",
+    company_name: "Campost Consulting and Development",
+    icon: CCD,
     iconBg: "#333333",
-    date: "Oct 2023 - Present",
+    date: "Oct 2023 - May 2024",
   },
 ];
 
